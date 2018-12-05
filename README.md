@@ -17,3 +17,11 @@
 
 
 ![alt text][image1]
+
+
+## Needed Libraries
+-[Tensorflow and Keras](https://medium.com/@abhizcc/installing-latest-tensor-flow-and-keras-on-raspberry-pi-aac7dbf95f2)
+- sudo pip install adafruit-pca9685
+
+## Enable in the Raspberry Pi Config:
+- I2C
