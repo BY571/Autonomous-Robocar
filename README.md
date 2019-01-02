@@ -50,12 +50,8 @@
 
 ![alt text][image6]
 
-final video output:
-<a href="https://www.youtube.com/watch?v=O1CGPuIWheo
-" target="_blank"><img src="https://www.youtube.com/watch?v=O1CGPuIWheo.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+### final video output:
 
 
 [Video](https://www.youtube.com/watch?v=O1CGPuIWheo)
 
-//IMG_20181115_120428.jpg
