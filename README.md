@@ -23,7 +23,7 @@
 - [Tensorflow and Keras](https://medium.com/@abhizcc/installing-latest-tensor-flow-and-keras-on-raspberry-pi-aac7dbf95f2)
 - sudo pip install adafruit-pca9685
 - sudo apt-get install xboxdrv
-- [OpenCV](https://www.deciphertechnic.com/install-opencv-python-on-raspberry-pi/)
+- [OpenCV](https://www.alatortsev.com/2018/04/27/installing-opencv-on-raspberry-pi-3-b/)
 
 ## Enable in the Raspberry Pi Config:
 - I2C
