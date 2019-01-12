@@ -50,6 +50,17 @@
 
 ![alt text][image6]
 
+
+### Updates and Changes:
+
+- trained a smaller model for predictions because loading and calc with the previous model was too calculation costly.
+Therefore I trained another - smaller model- and increased the size from 331 MB to 1.4 MB. While the accuracy still is up to 92% compared to 97% for the bigger model! huge success in my eyes!
+
+
+
+
+
+
 ### final video output:
 
 
