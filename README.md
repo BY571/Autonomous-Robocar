@@ -63,6 +63,8 @@ Therefore I trained another - smaller model- and increased the size from 331 MB 
 
 ### final video output:
 
-
 [Video](https://www.youtube.com/watch?v=O1CGPuIWheo)
 
+## TODO: 
+- add ultrasonic 
+- optimize steering and acceleration adaption
